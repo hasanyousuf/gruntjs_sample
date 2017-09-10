@@ -1,0 +1,9 @@
+  {
+      "name": "hasan",
+      "project": "casperjs",
+      "includeFiles": "test/lib/vars.js",
+      "logFile": "artifacts/log.xml",
+      "onlyTestFiles": "test/*.js",
+      "allJsInTest": "test/**/*.js",
+      "docs": "artifacts/docs"
+  }
